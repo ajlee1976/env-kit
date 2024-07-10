@@ -53,8 +53,10 @@ cfg.MY_VARIABLE
 |    BOOL     |   Boolean   |    bool     |
 |    JSON     |    JSON     |    dict     |
 |     ARR     |    Array    |    list     |
-If no value is passed, then the kit will default to use `None`. 
-Note that if no type is passed (see the below example), it is defaulted to be a string.
+
+
+If no value is passed, then the kit will default to use `None`. <br>
+**\* Note that if no type is passed (see the below example), it is defaulted to be a string.**
 
 ### Example Environment File
 ```
